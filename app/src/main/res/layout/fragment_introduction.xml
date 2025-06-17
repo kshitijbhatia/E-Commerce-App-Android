@@ -69,7 +69,7 @@
         app:layout_constraintStart_toStartOf="@+id/guidelineEllipseLeft"
         app:layout_constraintEnd_toEndOf="@+id/guidelineEllipseRight"
         android:layout_marginTop="25dp"
-        android:text="@string/Start"
+        android:text="@string/start"
         />
 
     <androidx.constraintlayout.widget.Guideline
