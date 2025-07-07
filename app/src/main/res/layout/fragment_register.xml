@@ -118,6 +118,10 @@
             android:text="@string/register"
             />
 
+<!--        app:spinning_bar_width="4dp"-->
+<!--        app:spinning_bar_color="#FFF"-->
+<!--        app:spinning_bar_padding="6dp"-->
+
         <ImageView
             android:id="@+id/facebookImg"
             android:layout_width="wrap_content"
